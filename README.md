@@ -21,6 +21,15 @@ Here's a sneak peek of what the resume looks like:
 
 ![Resume Screenshot](./rohit_resume_screenshot.png)
 
+### Online Editing
+
+#### Option 1: Overleaf
+1. **Create an Account**: Go to [Overleaf](https://www.overleaf.com) and sign up or log in.
+2. **New Project**: Click on 'New Project' and select 'Upload Project'.
+3. **Upload Files**: Zip the LaTeX files from your local repository and upload the `.zip` file to Overleaf.
+4. **Edit Online**: Use Overleaf's online LaTeX editor to make changes.
+5. **Download PDF**: Compile and download the PDF directly from Overleaf.
+
 ## Writing and Editing Your Resume
 
 To write and edit your resume using this LaTeX template, follow these steps:
